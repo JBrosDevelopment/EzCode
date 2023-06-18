@@ -1,5 +1,8 @@
 # EzCode
 
+## Source Code
+[Source code](https://github.com/JBrosDevelopment/EZCode-SourceCode) for all of the EZCode Programs
+
 EzCode is a simple and intuitive programming language designed to make coding easy and accessible for beginners. It combines simplicity with powerful features to help you quickly build applications and learn the fundamentals of programming.
 
 ## Features
